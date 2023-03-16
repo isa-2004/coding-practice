@@ -1,7 +1,7 @@
 const num1 = prompt("Enter a number: ");
+const operator = prompt("Enter the operator(+, -, /, *): ");
 const num2 = prompt("Enter a number: ");
 
-const operator = prommpt("Enter the operator(+, -, /, *): ");
 
 if (operator == '+') {
     result = num1 + num2;
